@@ -1,10 +1,10 @@
 {
   "wow": {
-    "": 2,
-    "Wow,": 2,
-    "Oh my god,": 2,
-    "Fuck me,": 0.1,
-    "Goodness gracious,": 0.1
+    "": 10,
+    "Wow!": 2,
+    "Oh my god!": 2,
+    "Fuck me!": 0.1,
+    "Goodness gracious!": 0.1
   },
 
   "adj": {
@@ -48,37 +48,120 @@
     "shockingly beautiful": 0.2,
     "boosted": 0.1,
     "brilliant": 1,
-    "best": 1,
+    "the best": 1,
     "noteworthy": 0.5,
     "neat": 0.8,
     "bright": 0.4,
-    "miracle": 0.1
+    "miracle": 0.1,
+    "marvellous": 0.7,
+    "delightful": 1
   },
 
-  "emo": {
-    "": 5,
-    "!!!": 1,
-    "\uD83D\uDE0D":0.5,
-    "\uD83D\uDCF7": 0.5,
-    "❤️": 1
-  },
 
   "subj": {
     "this": 1,
     "this pic": 1,
     "your pics": 1,
-    "eye": 1,
-    "eyes": 1,
-    "face": 1,
-    "look": 1,
-    "shot": 1,
-    "makeup": 1,
-    "palette": 0.1,
-    "dress": 0.3,
+    "eye": 0.2,
+    "eyes": 0.5,
+    "your eyes": 0.5,
+    "{this} face": 0.25,
+    "{this} look": 1,
+    "{this} shot": 1,
+    "{this} makeup": 1,
+    "{this} palette": 0.1,
+    "{this} dress": 0.3,
     "legs": 0.2,
-    "perspective": 0.5,
+    "{this} perspective": 0.5,
     "hair": 0.3,
-    "lipstick": 0.5,
-    "highlighter": 0.5
+    "{this} lipstick": 0.5,
+    "{this} highlighter": 0.5
+  },
+
+  "verb": {
+    "love": 1,
+    "adore": 0.3,
+    "enjoy": 1,
+    "like": 1,
+    "worship": 0.1,
+    "admire": 0.4,
+    "respect": 0.2,
+    "appreciate": 0.1,
+    "value": 0.1,
+    "will remember": 0.1
+  },
+
+  "adjadj": {
+    "": 10,
+    "so much": 1,
+    "too much": 0.5,
+    "to death": 0.05,
+    "for the lifetime": 0.05
+  },
+
+  "this": {
+    "": 0.2,
+    "this": 3,
+    "your": 1
+  },
+  "emo": {
+    "": 8,
+    "!": 1,
+    "...": 1,
+    "!!": 1,
+    "!!!": 1,
+    "!1!!": 1,
+    "\uD83D\uDE0D": 2,
+    "\uD83D\uDE0D\uD83D\uDE0D": 0.3,
+    "\uD83D\uDCF7": 1,
+    "\uD83D\uDCF7\uD83D\uDCF7": 0.3,
+    "❤️": 1,
+    "❤️❤️": 0.5,
+    "\uD83D\uDD25": 1,
+    "\uD83D\uDD25\uD83D\uDD25": 0.3,
+    "\uD83D\uDC8E": 1,
+    "\uD83D\uDC8E\uD83D\uDC8E": 0.3,
+    "\uD83D\uDE2E": 1,
+    "\uD83D\uDE2E\uD83D\uDE2E": 0.3
+  },
+  "emo2": {
+    "": 8,
+    "!": 1,
+    "...": 1,
+    "!!": 1,
+    "!!!": 1,
+    "!1!!": 1,
+    "\uD83D\uDE0D": 2,
+    "\uD83D\uDE0D\uD83D\uDE0D": 0.3,
+    "\uD83D\uDCF7": 1,
+    "\uD83D\uDCF7\uD83D\uDCF7": 0.3,
+    "❤️": 1,
+    "❤️❤️": 0.5,
+    "\uD83D\uDD25": 1,
+    "\uD83D\uDD25\uD83D\uDD25": 0.3,
+    "\uD83D\uDC8E": 1,
+    "\uD83D\uDC8E\uD83D\uDC8E": 0.3,
+    "\uD83D\uDE2E": 1,
+    "\uD83D\uDE2E\uD83D\uDE2E": 0.3
+  },
+  "emo3": {
+    "": 5,
+    "!": 1,
+    ".!": 1,
+    "!!": 1,
+    "!!!": 1,
+    "!1!!": 1,
+    "\uD83D\uDE0D": 2,
+    "\uD83D\uDE0D\uD83D\uDE0D": 2,
+    "\uD83D\uDCF7": 1,
+    "\uD83D\uDCF7\uD83D\uDCF7": 1,
+    "❤️": 1,
+    "❤️❤️": 1,
+    "\uD83D\uDD25": 1,
+    "\uD83D\uDD25\uD83D\uDD25": 1,
+    "\uD83D\uDC8E": 1,
+    "\uD83D\uDC8E\uD83D\uDC8E": 1,
+    "\uD83D\uDE2E": 1,
+    "\uD83D\uDE2E\uD83D\uDE2E": 1
   }
 }

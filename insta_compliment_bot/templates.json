@@ -1,4 +1,6 @@
-[
-    "{wow} {subj} {is} {adj}{emo}",
-    "{wow} you have a(n) {adj} {subj}"
-  ]
+{
+  "{wow}{emo} {subj} {is} {adj}{emo2}{emo3}": 2,
+  "{wow}{emo} you have a(n) {adj} {subj}{emo2}{emo3}[no_this]": 0.5,
+  "{wow}{emo} I {verb} {subj} {adjadj}{emo2}{emo3}": 1,
+  "{wow}{emo} I {verb} {subj} {adjadj}{emo2}! this is {adj}{emo3}": 1
+}
